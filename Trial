@@ -1,4 +1,4 @@
-setwd("C:/Users/AMMA/Downloads")
+setwd("E:/MICA/PGP 2/Term 4/AAMA/AMMA Assignment")
 titanic_data= read.csv("train.csv")
 
 ###understanding data
